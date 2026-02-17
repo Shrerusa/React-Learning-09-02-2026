@@ -1,0 +1,10 @@
+{
+  "github.copilot.enable": {
+    "markdown": true,
+    "plaintext": true,
+    "scminput": true
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
+}
